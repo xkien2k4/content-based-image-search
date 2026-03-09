@@ -136,7 +136,7 @@ Upload một ảnh và hệ thống sẽ trả về **các ảnh tương tự tr
 
 ---
 
-# 👨‍💻 Tác giả
-**Nguyễn Vũ Xuân Kiên**
+# 👨‍💻 Author
+**Nguyen Vu Xuan Kien | kien1722004@gmail.com** 
 
 Project phục vụ cho mục đích **học tập và nghiên cứu về Computer Vision / Image Retrieval**.
